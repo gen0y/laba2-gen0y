@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 London is the capital og The Great Britain.
 edited
+=======
+London is the capital of The Great Britain.
+>>>>>>> 4576535 (task 96.2)
